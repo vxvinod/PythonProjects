@@ -1,0 +1,10 @@
+[INFO] 2025-04-16 09:15:23 - User login: alice
+[ERROR] 2025-04-16 09:16:00 - Database connection failed
+[WARNING] 2025-04-16 09:16:45 - Low disk space on server
+[INFO] 2025-04-16 09:17:12 - File uploaded: report.pdf
+[DEBUG] 2025-04-16 09:18:34 - Cache refresh triggered
+[INFO] 2025-04-16 09:19:10 - User logout: alice
+[ERROR] 2025-04-16 09:20:22 - API timeout on /users
+[WARNING] 2025-04-16 09:21:01 - High memory usage
+[INFO] 2025-04-16 09:22:30 - User login: bob
+[DEBUG] 2025-04-16 09:23:10 - Session cleanup
