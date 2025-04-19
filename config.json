@@ -1,0 +1,9 @@
+{
+    "app_name": "MyApp",
+    "version": "1.0",
+    "debug": true,
+    "database": {
+        "host": 12,
+        "port": "5432"
+    }
+}
